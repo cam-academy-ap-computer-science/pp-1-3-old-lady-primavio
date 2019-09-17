@@ -9,12 +9,9 @@ public class OldLady {
 		idky();
 		bird();
 		swalBird();
-		swalSpid();
 		idky();
 		cat();
 		swalCat();
-		swalBird();
-		swalSpid();
 		idky();
 		dog();
 		swalCat();
@@ -39,6 +36,7 @@ public class OldLady {
 	
 	public static void swalSpid() {
 		System.out.println("She swallowed the spider to catch the fly,");
+		idky();
 	}
 	
 	public static void bird() {
@@ -47,6 +45,7 @@ public class OldLady {
 	
 	public static void swalBird() {
 		System.out.println("She swallowed the bird to catch the spider,");
+		swalSpid();
 	}
 	
 	public static void dog() {
@@ -64,5 +63,6 @@ public class OldLady {
 	
 	public static void swalCat() {
 		System.out.println("She swallowed the cat to catch the bird,");
+		swalBird();
 	}
 }
