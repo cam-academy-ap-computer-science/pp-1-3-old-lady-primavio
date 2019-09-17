@@ -3,10 +3,8 @@ public class OldLady {
 
 	public static void main(String[] args) {
 		fly();
-		idky();
 		spider();
 		swalSpid();
-		idky();
 		bird();
 		swalBird();
 		idky();
@@ -23,6 +21,7 @@ public class OldLady {
 
 	public static void fly() {
 		System.out.println("There was an old lady who swallowed a fly.");
+		idky();
 	}
 	
 	public static void idky() {
