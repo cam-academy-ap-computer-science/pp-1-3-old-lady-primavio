@@ -7,15 +7,10 @@ public class OldLady {
 		swalSpid();
 		bird();
 		swalBird();
-		idky();
 		cat();
 		swalCat();
-		idky();
 		dog();
 		swalCat();
-		swalBird();
-		swalSpid();
-		idky();
 		horse();
 	}
 
