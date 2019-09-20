@@ -1,4 +1,17 @@
-
+/***
+ * Grading comments:
+ *   Very good work.  You definitely reduced typing and
+ *   duplication using nesting.
+ *  Compiles/Runs: 15/15
+ *  Desired Output: 6/6
+ *  Consistency: 2/2  -Missed a bracket indentation, but naming 
+ *    conventions were good.
+ *  Efficiency: 2/2  - You could've done more here - You could have 
+ *   reduced typing 'There was an old lady who swallowed" into a 
+ *   method, made methods for verses to make main() 
+ *   cleaner, but you still did well.
+ *   Good job.  25/25
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
